@@ -6,8 +6,8 @@
 <html>
     <body>
         <h1>Hello World</h1>
-        <p>I'm hosted with Github Pages.</p>
-        <p>This is in readme</p>
+        <p>I'm hosted with Github Pages. This is in Readme</p>
+        
     </body>
 </html>
 
